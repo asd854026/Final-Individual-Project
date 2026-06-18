@@ -1,0 +1,7 @@
+metric,value
+Rows at start,14041
+Rows with missing analysis variable,1188
+Invalid PerceptionOfWeight rows after dropping missing,0
+Invalid BMIPCT rows after dropping missing,0
+Final cleaned rows,12853
+Rows removed from analysis,1188

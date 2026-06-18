@@ -1,0 +1,11 @@
+metric,value
+Total rows,14041
+Missing values,247
+Non-missing values,13794
+Code 1 count,272
+Code 2 count,1599
+Code 3 count,7769
+Code 4 count,3542
+Code 5 count,612
+Invalid non-missing values,0
+Final valid group-variable rows,13794

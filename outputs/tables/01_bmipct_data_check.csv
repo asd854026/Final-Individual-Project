@@ -1,0 +1,6 @@
+metric,value
+Total rows,14041
+Missing values,979
+Non-missing values,13062
+Invalid non-missing values outside 0-100,0
+Final valid response-variable rows,13062

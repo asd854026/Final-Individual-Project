@@ -1,0 +1,3 @@
+variable,exists_in_dataset,dtype
+PerceptionOfWeight,True,float64
+BMIPCT,True,float64

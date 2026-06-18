@@ -1,0 +1,7 @@
+assumption question,answer,evidence / explanation
+Are the groups independent?,Reasonable for this project,The dataset is treated as student survey responses for this individual project.
+Is the response variable quantitative?,Yes,BMIPCT is a numeric BMI percentile variable.
+Are there at least two groups?,Yes,PerceptionOfWeight has five groups.
+Are group sample sizes usable?,Yes,"Group sample sizes range from 207 to 7,351."
+Are group variances exactly equal?,Not exactly,Levene median-centered test p-value = < 0.0001; group standard deviations are not identical.
+Is ANOVA still reasonable for this class project?,"Yes, with cautious interpretation","The sample size is large, and the course-approved method for this research question is one-way ANOVA. The conclusion is stated as association, not causation."

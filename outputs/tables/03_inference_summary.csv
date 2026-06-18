@@ -1,0 +1,2 @@
+method,group_variable,response_variable,f_statistic,p_value,alpha,decision,post_hoc_test
+One-way ANOVA,PerceptionOfWeight / WeightPerception,BMIPCT,1556.6455,< 0.0001,0.05,Reject H0,Tukey HSD

@@ -1,0 +1,11 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+About the right weight,Slightly overweight,25.2751,< 0.0001,23.9864,26.5637,True
+About the right weight,Slightly underweight,-23.1807,< 0.0001,-24.9584,-21.403,True
+About the right weight,Very overweight,32.5847,< 0.0001,29.8399,35.3295,True
+About the right weight,Very underweight,-14.2102,< 0.0001,-18.5527,-9.8677,True
+Slightly overweight,Slightly underweight,-48.4557,< 0.0001,-50.402,-46.5095,True
+Slightly overweight,Very overweight,7.3096,< 0.0001,4.4527,10.1665,True
+Slightly overweight,Very underweight,-39.4853,< 0.0001,-43.8994,-35.0711,True
+Slightly underweight,Very overweight,55.7654,< 0.0001,52.6571,58.8736,True
+Slightly underweight,Very underweight,8.9705,< 0.0001,4.3896,13.5514,True
+Very overweight,Very underweight,-46.7949,< 0.0001,-51.8306,-41.7592,True
