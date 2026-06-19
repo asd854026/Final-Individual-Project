@@ -2,7 +2,7 @@
 
 ## Project Repository
 
-GitHub link:
+GitHub link:https://github.com/asd854026/2026-Spring-Stat2-Cycle4/tree/main
 
 ## Presentation Video
 
