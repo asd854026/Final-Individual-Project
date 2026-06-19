@@ -4,6 +4,6 @@ The cleaned analysis dataset contained 12,853 students.
 
 The highest mean BMIPCT was in the Very overweight group (92.30), while the lowest mean BMIPCT was in the Slightly underweight group (36.53).
 
-The one-way ANOVA result was F = 1556.6455 with p-value < 0.001. At alpha = 0.05, the decision was Reject H0.
+The one-way ANOVA result was F = 1556.6455 with p-value < 0.0001. At alpha = 0.05, the decision was Reject H0.
 
 Students' perceived weight category is associated with actual BMI percentile. This result shows association, not causation, because the YRBS data are observational survey data.

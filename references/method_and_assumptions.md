@@ -33,4 +33,4 @@ Because the ANOVA result is statistically significant, Tukey HSD post-hoc compar
 
 ## Result Used in the Project
 
-The ANOVA result is statistically significant: F = 1556.65, p < 0.001. The decision is: Reject H0.
+The ANOVA result is statistically significant: F = 1556.65, p < 0.0001. The decision is: Reject H0.

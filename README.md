@@ -37,7 +37,7 @@ One-way ANOVA was used to compare mean BMI percentile across the five perceived 
 
 ## Main Results
 
-After cleaning, the analysis dataset contained 12,853 students. The one-way ANOVA found a statistically significant difference in mean BMI percentile across perceived weight groups, F = 1556.65, p < 0.001. The highest mean BMI percentile was in the `Very overweight` group (92.30), while the lowest mean BMI percentile was in the `Slightly underweight` group (36.53). Tukey HSD found 10 statistically significant pairwise comparisons out of 10.
+After cleaning, the analysis dataset contained 12,853 students. The one-way ANOVA found a statistically significant difference in mean BMI percentile across perceived weight groups, F = 1556.65, p < 0.0001. The highest mean BMI percentile was in the `Very overweight` group (92.30), while the lowest mean BMI percentile was in the `Slightly underweight` group (36.53). Tukey HSD found 10 statistically significant pairwise comparisons out of 10.
 
 ## Conclusion
 
