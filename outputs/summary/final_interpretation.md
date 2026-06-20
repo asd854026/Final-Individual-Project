@@ -1,5 +1,3 @@
-# Final Interpretation
-
 ## Final Interpretation
 
 The cleaned analysis dataset contained **12,853** students.
