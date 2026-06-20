@@ -18,10 +18,6 @@ YouTube link: https://youtu.be/ax899JlSfRM
 
 Do students' perceptions of their weight reflect their actual BMI percentile?
 
-## Dataset
-
-This project uses the `YRBS_2007.csv` dataset provided for the final individual statistics project. The dataset contains 14,041 student survey records and 103 variables related to student demographics, behaviors, health measures, and survey design fields.
-
 ## Variables
 
 - `PerceptionOfWeight`: categorical explanatory variable coded from 1 to 5.
